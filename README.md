@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+This a full stack hotel booking app developed with React.js , Node.js , Express.js and MongoDB and the styling is created using bootstrap
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
